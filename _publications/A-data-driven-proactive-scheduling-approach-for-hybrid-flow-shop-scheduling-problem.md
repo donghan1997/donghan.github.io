@@ -5,8 +5,8 @@ permalink: /publication/A-data-driven-proactive-scheduling-approach-for-hybrid-f
 excerpt: ''
 date: 2021-08-04
 venue: 'ASME 2021 16th International Manufacturing Science and Engineering Conference'
-paperurl: 'https://asmedigitalcollection.asme.org/MSEC/proceedings-abstract/MSEC2021/V002T07A002/1115435'
-citation: 'Han, D, Li, W, Li, X, Gao, L, & Li, Y. "A Data-Driven Proactive Scheduling Approach for Hybrid Flow Shop Scheduling Problem." Proceedings of the ASME 2021 16th International Manufacturing Science and Engineering Conference. Volume 2: Manufacturing Processes; Manufacturing Systems; Nano/Micro/Meso Manufacturing; Quality and Reliability. Virtual, Online. June 21–25, 2021. V002T07A002. ASME. https://doi.org/10.1115/MSEC2021-61672'
+paperurl: 'https://doi.org/10.1115/MSEC2021-61672'
+citation: 'Han, D, Li, W, Li, X, Gao, L, & Li, Y. "A Data-Driven Proactive Scheduling Approach for Hybrid Flow Shop Scheduling Problem." Proceedings of the ASME 2021 16th International Manufacturing Science and Engineering Conference. Volume 2: Manufacturing Processes; Manufacturing Systems; Nano/Micro/Meso Manufacturing; Quality and Reliability. Virtual, Online. June 21–25, 2021. V002T07A002. ASME.'
 ---
 
-[Download paper here](https://cjme.springeropen.com/articles/10.1186/s10033-022-00683-7)
+[Download paper here](https://doi.org/10.1115/MSEC2021-61672)
