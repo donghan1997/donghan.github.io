@@ -1,7 +1,7 @@
 ---
-title: "Integrated production and transportation scheduling method in hybrid flow shop"
+title: "[Integrated production and transportation scheduling method in hybrid flow shop](https://cjme.springeropen.com/articles/10.1186/s10033-022-00683-7)"
 collection: publications
-permalink: /publication/Integrated-production-and-transportation-scheduling-method-in-hybrid-flow-shop
+permalink: ''
 excerpt: ''
 date: 2022-02-18
 venue: 'Chinese Journal of Mechanical Engineering'
