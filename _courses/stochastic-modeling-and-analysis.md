@@ -1,5 +1,5 @@
 ---
-title: "Linear Programming and Network Optimization"
+title: "Stochastic Modeling and Analysis"
 collection: courses
 type: ""
 permalink: 
